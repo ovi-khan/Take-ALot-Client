@@ -1,0 +1,122 @@
+[
+    {
+      "category": "Baby",
+      "fees": "12.0 - 15.0"
+    },
+    {
+      "category": "Beauty",
+      "fees": "10.0 - 15.0"
+    },
+    {
+      "category": "Books",
+      "fees": "14.0 - 14.0"
+    },
+    {
+      "category": "Cameras",
+      "fees": "4.0 - 12.0"
+    },
+    {
+      "category": "Camping & Outdoor",
+      "fees": "8.0 - 15.0"
+    },
+    {
+      "category": "Clothing & Footwear",
+      "fees": "10.0 - 18.0"
+    },
+    {
+      "category": "Computer Components",
+      "fees": "6.0 - 9.0"
+    },
+    {
+      "category": "Computer & Laptops",
+      "fees": "5.0 - 9.0"
+    },
+    {
+      "category": "DIY & Automotive",
+      "fees": "10.0 - 12.0"
+    },
+    {
+      "category": "Electronic Accessories",
+      "fees": "10.0 - 14.0"
+    },
+    {
+      "category": "Games",
+      "fees": "5.5 - 15.0"
+    },
+    {
+      "category": "Garden, Pool & Patio",
+      "fees": "12.0 - 14.0"
+    },
+    {
+      "category": "Health",
+      "fees": "10.0 - 12.0"
+    },
+    {
+      "category": "Homeware",
+      "fees": "15.0 - 15.0"
+    },
+    {
+      "category": "Large Appliances",
+      "fees": "8.0 - 10.0"
+    },
+    {
+      "category": "Liquor",
+      "fees": "7.0 - 10.0"
+    },
+    {
+      "category": "Luggage & Travel",
+      "fees": "15.0 - 15.0"
+    },
+    {
+      "category": "Mobile",
+      "fees": "12.0 - 14.0"
+    },
+    {
+      "category": "Music & DVD",
+      "fees": "10.0 - 15.0"
+    },
+    {
+      "category": "Musical Instruments",
+      "fees": "8.0 - 12.0"
+    },
+    {
+      "category": "Non-Perishable",
+      "fees": "8.0 - 8.0"
+    },
+    {
+      "category": "Office",
+      "fees": "7.0 - 12.0"
+    },
+    {
+      "category": "Office Furniture",
+      "fees": "10.0 - 10.0"
+    },
+    {
+      "category": "Pets",
+      "fees": "10.0 - 10.0"
+    },
+    {
+      "category": "Small Appliances",
+      "fees": "10.0 - 12.0"
+    },
+    {
+      "category": "Smart Home & Connected Living",
+      "fees": "5.0 - 14.0"
+    },
+    {
+      "category": "Sport",
+      "fees": "12.0 - 15.0"
+    },
+    {
+      "category": "Stationery",
+      "fees": "10.0 - 14.0"
+    },
+    {
+      "category": "Toys",
+      "fees": "12.0 - 12.0"
+    },
+    {
+      "category": "Tv & Audio",
+      "fees": "5.5 - 12.0"
+    }
+]

@@ -1,0 +1,58 @@
+[
+  {
+      "id": "01",
+      "Division": "Consumer Electronics",
+      "Department": [
+          {
+              "Department": "Smart Home & Connected Living",
+              "Smart Home & Connected Living": {
+                  "Category": [
+                      "Intercoms → Intercoms",
+                      "GPS Tracking Devices → Automotive GPS",
+                      "GPS Tracking Devices → Fitness GPS",
+                      "GPS Tracking Devices → GPS Accessories"
+                  ]
+              }
+          },
+          {
+              "Department": "Smart Home & Connected Living",
+              "Connected Living": {
+                  "Category": [
+                    "GPS Tracking Devices → Fitness GPS",
+                      "Intercoms → Intercoms",
+                      "GPS Tracking Devices → Automotive GPS",
+                      "GPS Tracking Devices → GPS Accessories"
+                  ]
+              }
+          }
+      ]
+  },
+  {
+      "id": "02",
+      "Division": "Consumer",
+      "Consumer": [
+          {
+              "Department": "Smart Home & Connected Living",
+              "Home & Connected": {
+                  "Category": [
+                      "Intercoms → Intercoms",
+                      "GPS Tracking Devices → Automotive GPS",
+                      "GPS Tracking Devices → Fitness GPS",
+                      "GPS Tracking Devices → GPS Accessories"
+                  ]
+              }
+          },
+          {
+              "Department": "Smart Home & Connected Living",
+              "Connected Living": {
+                  "Category": [
+                    "GPS Tracking Devices → Fitness GPS",
+                      "Intercoms → Intercoms",
+                      "GPS Tracking Devices → Automotive GPS",
+                      "GPS Tracking Devices → GPS Accessories"
+                  ]
+              }
+          }
+      ]
+  }
+]
